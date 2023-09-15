@@ -38,3 +38,4 @@ plt.plot(freq, np.abs(fft_filtered_signal))
 plt.title('FFT of Filtered Signal')
 plt.tight_layout()
 plt.show()
+
